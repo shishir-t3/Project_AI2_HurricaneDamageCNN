@@ -1,4 +1,4 @@
-# Project_AI2_HurricaneDamageCNN
+# Post-Hurricane Damaged House Classification Using CNNs
 Hurricane Iota was a devastating late-season Category 4 Atlantic hurricane which caused severe damage to areas of Central America already devastated by Hurricane Eta just less than two weeks prior. The 31st and final tropical cyclone, 30th named storm, 14th hurricane, and record-tying seventh major hurricane of the record-breaking 2020 Atlantic hurricane season, Iota originated as a tropical wave that moved into the Eastern Caribbean on November 10. Over the next few days, the wave began to become better organized and by November 13, it developed into a tropical depression north of Colombia. 
 
 
